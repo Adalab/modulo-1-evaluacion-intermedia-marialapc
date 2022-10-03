@@ -1,4 +1,23 @@
 html{
     font-family: 'Rubik', sans-serif;
 }
+.logo{
+    width: 155px;
+}
 
+.menu{
+    
+}
+.menu-li{
+    text-decoration: none;
+    font-size: 16px;
+    color: #4a4a4a;
+}
+
+.hero{
+    background-color: #3CDBC0;
+}
+
+.title{
+    color:#FFFFFF;
+}
